@@ -1,3 +1,4 @@
+// Copyright © 2024 Sapirrior
 const { Client, GatewayIntentBits } = require('discord.js');
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent]});
