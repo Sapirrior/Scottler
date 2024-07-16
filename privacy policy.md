@@ -1,6 +1,6 @@
 **Privacy Policy:**
 
-Our activities discord bot collects information about messages sent in servers it's a member of to detect and remove links. We don't collect personal info and only use data to provide stats and analytics. We keep your data safe and secure.
+Our Scuttler discord bot collects information about messages sent in servers it's a member of to detect and remove links. We don't collect personal info and only use data to provide stats and analytics. We keep your data safe and secure.
 
 **Description:**
 
