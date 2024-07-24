@@ -3,7 +3,9 @@
 Scuttler is a powerful antilink bot that keeps your Discord server safe from spam and unwanted website links. No setup required! Just add Scuttler to your server and it will automatically start deleting links sent by non-admin users.
 
 **Enable:**
-Scuttler will automatically start deleting links sent by users when you add it in your server. If you want to enable it manually then give *Manage Messages* permission to bot's highest role.
+`Scuttler will automatically start deleting links sent by users when you add it in your server. If you want to enable it manually then give *Manage Messages* permission to bot's highest role.`
 
 **Disable:**
-To disable anti-link in your server, remove the _Manage Messages_ permission from bot's highest role.
+`To disable anti-link in your server, remove the _Manage Messages_ permission from bot's highest role.`
+
+
