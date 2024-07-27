@@ -10,3 +10,6 @@ To disable anti-link in your server, remove the _Manage Messages_ permission fro
 
 
 **Invite Now:** [Link](https://discord.com/oauth2/authorize?client_id=1189826779091828796)
+
+
+PFP: [OwO's 2023 Halloween Emoji](https://discord.gg/owobot)
