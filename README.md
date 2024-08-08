@@ -1,12 +1,12 @@
-**Scottler: Link Protection Bot**
+**A global currency game for collecting items, getting rich, robbing friends, taking care of virtual pets, gambling, and so much more.**
 
-Scottler is a powerful antilink bot that keeps your Discord server safe from spam and unwanted website links. No setup required! Just add Scottler to your server and it will automatically start deleting links sent by non-admin users.
+Scottler: The Global Economy Bot That's Off the Chain!
 
-**Enable:**
-Scottler will automatically start deleting links sent by users when you add it in your server. If you want to enable it manually then give *Manage Messages* permission to bot's highest role.
+Dude, are you ready to get rich, rob your friends, and live the high life (or go bankrupt trying)? Scottler's got you covered! It's a global economy bot where you can collect rare items, make deals, and crush your enemies (or make friends, we won't judge).
 
-**Disable:**
-To disable anti-link in your server, remove the _Manage Messages_ permission from bot's highest role.
+Explore a virtual world of opportunities, scams, and crazy games of chance. Will you be a millionaire or a pauper? Only time (and your skills) will tell.
+
+Daily challenges, mysterious events, and hidden secrets will keep you on your toes. So, what are you waiting for? Invite Scottler to your server and join the global economy madness!
 
 
 **Invite Now:** [Link](https://discord.com/oauth2/authorize?client_id=1189826779091828796)
