@@ -1,6 +1,6 @@
 Terms of Service:
 
-By using our activities discord bot, you agree to:
+By using our scottler discord bot, you agree to:
 
 Let us collect message data to detect and remove links
 Keep your server safe from spam and phishing attacks
