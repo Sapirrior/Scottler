@@ -1,14 +1,21 @@
-**A global currency game for collecting items, getting rich, robbing friends, taking care of virtual pets, gambling, and so much more.**
+**Scottler: Link Protection Bot**
 
-Scottler: The Global Economy Bot That's Off the Chain!
+**Automatically protect your server from unwanted links!**
 
-Dude, are you ready to get rich, rob your friends, and live the high life (or go bankrupt trying)? Scottler's got you covered! It's a global economy bot where you can collect rare items, make deals, and crush your enemies (or make friends, we won't judge).
+Scottler is a powerful antilink bot that keeps your Discord server safe from spam and unwanted website links. No setup required! Just add Scottler to your server and it will automatically start deleting links sent by non-admin users.
 
-Explore a virtual world of opportunities, scams, and crazy games of chance. Will you be a millionaire or a pauper? Only time (and your skills) will tell.
+**Features:**
 
-Daily challenges, mysterious events, and hidden secrets will keep you on your toes. So, what are you waiting for? Invite Scottler to your server and join the global economy madness!
+* **Zero-config setup**: Just add Scottler to your server and it will start working immediately.
+* **Link protection**: Scottler deletes links sent by non-admin users to keep your server safe.
+* **Owner and bot exemptions**: Owners and bots are exempt from link deletion, so they can still share important links with your community.
 
+**Why use Scottler?**
 
-**Invite Now:** [Link](https://discord.com/oauth2/authorize?client_id=1189826779091828796)
+* Protect your server from spam and unwanted links
+* Keep your community safe from phishing scams and malware
+* Focus on building a positive and engaging community without worrying about link spam
 
-**PFP**: Dank Memer
+[**Add Scottler to your server today and keep your community safe!**](https://discord.com/oauth2/authorize?client_id=1189826779091828796&permissions=10240&integration_type=0&scope=bot)
+
+```Want to create ur own private discord bot for your server? Then contact with me```
