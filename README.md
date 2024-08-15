@@ -16,6 +16,6 @@ Scottler is a powerful antilink bot that keeps your Discord server safe from spa
 * Keep your community safe from phishing scams and malware
 * Focus on building a positive and engaging community without worrying about link spam
 
-[**Add Scottler to your server today and keep your community safe!**](https://discord.com/oauth2/authorize?client_id=1189826779091828796&permissions=10240&integration_type=0&scope=bot)
+**PFP**: OwO Emoji
 
-```Want to create ur own private discord bot for your server? Then contact with me```
+[**Add Scottler to your server today and keep your community safe!**](https://discord.com/oauth2/authorize?client_id=1189826779091828796&permissions=10240&integration_type=0&scope=bot)
